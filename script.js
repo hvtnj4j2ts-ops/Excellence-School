@@ -1,0 +1,1 @@
+console.log("Excellence School est chargé !");
